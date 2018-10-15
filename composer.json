@@ -1,0 +1,15 @@
+{
+    "name": "snoob/api-platform-util",
+    "type": "library",
+    "require": {
+        "api-platform/core": "^2.3",
+        "php": "^7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yannick Snobbert",
+            "email": "yannick.snobbert@gmail.com"
+        }
+    ]
+}
